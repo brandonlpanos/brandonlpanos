@@ -5,12 +5,8 @@
   <img src="./images/image_color.png" style="width:200px; height:200px; display:none;" onmouseover="this.style.display='block'" onmouseout="this.style.display='none'"/>
 </div> -->
 
-<!-- <div style="width:1200px; height:auto; background: url('./images/image_bw.png') no-repeat; background-size: cover;">
+<div style="width:1200px; height:auto; background: url('./images/image_bw.png') no-repeat; background-size: cover;">
   <img src="./images/image_color.png" alt="Intro Picture" style="width:1200px; height:auto; display:none;" onmouseover="this.style.display='block'" onmouseout="this.style.display='none'"/>
-</div> -->
-
-<div style="width:200px; height:200px; background-image: url('./images/image_bw.png');">
-  <img src="./images/image_color.png" style="width:200px; height:200px; display:none;" onmouseover="this.style.display='block'" onmouseout="this.style.display='none'"/>
 </div>
 
 
