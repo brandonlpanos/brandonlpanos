@@ -1,4 +1,4 @@
-<img src="./images/image1.png" alt="Intro Picture" width="1200"/>
+<img src="./images/image2.png" alt="Intro Picture" width="1200"/>
 
 
 <!--
