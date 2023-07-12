@@ -1,4 +1,5 @@
-![Intro Picture](./images/image1.png)
+<!-- ![Intro Picture](./images/image1.png) -->
+<img src="./images/image1.png" alt="Intro Picture" width="200"/>
 
 
 <!--
