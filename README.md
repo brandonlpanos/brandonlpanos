@@ -1,4 +1,5 @@
-### Hi there 👋
+![Intro Picture](./images/image1.png)
+
 
 <!--
 **brandonlpanos/brandonlpanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
